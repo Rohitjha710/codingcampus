@@ -35,7 +35,7 @@
     "node-latest-version": "^1.0.16",
     "node-monitor": "^0.3.11",
     "node-rest-client": "^3.1.0",
-    "nodemailer": "^4.7.0",
+    "nodemailer": "^6.4.16",
     "nodemon": "^1.19.4",
     "pug": "^2.0.0-rc.4",
     "redis": "^2.8.0",
